@@ -10,7 +10,7 @@ The count widget displays the number of matches to a specified [[filter expressi
 
 ! Content and Attributes
 
-The content of the `<$count>` widget is ignored.
+
 
 |!Attribute |!Description |
 |filter |The filter expression to count |
